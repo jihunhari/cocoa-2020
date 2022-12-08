@@ -1,0 +1,10 @@
+.user-profile__column {
+    display: flex;
+    align-items: center;
+}
+.user-profile__avatar {
+    width: 70px;
+    height: 70px;
+    border-radius: 30px;
+    margin-right: 20px;
+}
